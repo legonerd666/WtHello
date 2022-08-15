@@ -1,8 +1,8 @@
 ## Dependencies:
 
-Wt: https://redmine.webtoolkit.eu/projects/wt/wiki/Wt_Installation
-Cmake: 3.7
-Boost Library (for wt)
+    -Wt: https://redmine.webtoolkit.eu/projects/wt/wiki/Wt_Installation
+    -Cmake: 3.7
+    -Boost Library (for wt)
 
 ## How to build and run this program on linux:
 
